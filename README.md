@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankita Kori</h1>
+<h1 align="center">Hello 👋, I'm Ankita Kori</h1>
 <h3 align="center">🚀 MERN Stack Developer | Software Developer | Fresher</h3>
 
 <p align="center">
